@@ -9,6 +9,15 @@ Bamazon
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
    
+   * Manager Instructions
+* If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
+
+  * If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+
+  * If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
+
+  * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
+   
 * Bamazon Customer GIFs
 <br>
 <a href="https://media.giphy.com/media/MVQRITvGzO3EJxnsGB/giphy.gif"><img src="https://media.giphy.com/media/MVQRITvGzO3EJxnsGB/giphy.gif" title="bamazon"/></a>
@@ -19,14 +28,7 @@ Bamazon
 <a href="https://media.giphy.com/media/i4jXpCFNElvhKgW69x/giphy.gif"><img src="https://media.giphy.com/media/i4jXpCFNElvhKgW69x/giphy.gif" title="bamazon"/></a>
 
 
-* Manager Instructions
-* If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
 
-  * If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
-
-  * If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
-
-  * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
   
 * Bamazon Manager GIFs
 <br>
