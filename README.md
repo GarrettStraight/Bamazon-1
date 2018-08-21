@@ -21,7 +21,26 @@ Bamazon
 * Customer Screenshoots
   * Display Inventory
   ![App Image](assets/image/Capture.PNG)
-   
+  * Buying Item
+   ![App Image](assets/image/Capture2.PNG)
+   ![App Image](assets/image/Capture3.PNG)
+   ![App Image](assets/image/Capture4.PNG)
+ 
+* Manager Screenshoots
+  Dispaly Inventory
+   ![App Image](assets/image/Capture5.PNG)
+   ![App Image](assets/image/Capture6.PNG)
+* Check Low Inventory
+    ![App Image](assets/image/Capture7.PNG)
+* Add to Inventory
+     ![App Image](assets/image/Capture8.PNG)
+     ![App Image](assets/image/Capture9.PNG)
+* Add New Product
+      ![App Image](assets/image/Capture10.PNG)
+      ![App Image](assets/image/Capture11.PNG)
+      
+     
+    
 * Bamazon Customer GIFs
 <br>
 <a href="https://media.giphy.com/media/MVQRITvGzO3EJxnsGB/giphy.gif"><img src="https://media.giphy.com/media/MVQRITvGzO3EJxnsGB/giphy.gif" title="bamazon"/></a>
