@@ -27,3 +27,6 @@ Bamazon
 
 
 <a href="https://media.giphy.com/media/4HlVcVCjb0Q5czeZ2Q/giphy.gif"><img src="https://media.giphy.com/media/4HlVcVCjb0Q5czeZ2Q/giphy.gif" title="bamazon"/></a>
+
+
+<a href="https://media.giphy.com/media/1na6AOQJp8Ibwmnqnr/giphy.gif"><img src="https://media.giphy.com/media/1na6AOQJp8Ibwmnqnr/giphy.gif" title="bamazon"/></a>
