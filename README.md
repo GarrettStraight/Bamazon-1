@@ -20,7 +20,7 @@ Bamazon
 <br>
 <a href="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif"><img src="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif" title="bamazon"/></a>
 
-<iframe src="https://giphy.com/embed/mMEweeBePXdzifSQDU" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mMEweeBePXdzifSQDU">via GIPHY</a></p>
+<a href="https://media.giphy.com/media/mMEweeBePXdzifSQDU/giphy.gif"><img src="https://media.giphy.com/media/mMEweeBePXdzifSQDU/giphy.gif" title="bamazon"/></a>
 
 <a href="https://media.giphy.com/media/1o1om8p7NnjZrwQUVa/giphy.gif"><img src="https://media.giphy.com/media/1o1om8p7NnjZrwQUVa/giphy.gif" title="bamazon"/></a>
 <a href="https://media.giphy.com/media/1oIjZMp7qZzO29HrqP/giphy.gif"><img src="https://media.giphy.com/media/1oIjZMp7qZzO29HrqP/giphy.gif" title="bamazon"/></a>
