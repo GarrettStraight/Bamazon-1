@@ -9,8 +9,8 @@ Bamazon
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
    
-   * Manager Instructions
-* If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
+* Manager Instructions
+  * If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
 
   * If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
 
