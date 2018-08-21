@@ -18,7 +18,9 @@ Bamazon
 
 * Bamazon Manager GIFs
 <br>
+<a href="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif"><img src="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif" title="bamazon"/></a>
+
 <a href="https://media.giphy.com/media/1o1om8p7NnjZrwQUVa/giphy.gif"><img src="https://media.giphy.com/media/1o1om8p7NnjZrwQUVa/giphy.gif" title="bamazon"/></a>
 <a href="https://media.giphy.com/media/1oIjZMp7qZzO29HrqP/giphy.gif"><img src="https://media.giphy.com/media/1oIjZMp7qZzO29HrqP/giphy.gif" title="bamazon"/></a>
 
-<a href="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif"><img src="https://media.giphy.com/media/7w1G3EXUQS0n2bhMFY/giphy.gif" title="bamazon"/></a>
+
